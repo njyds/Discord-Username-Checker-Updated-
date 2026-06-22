@@ -1,0 +1,4 @@
+# One username per line to check
+# Example:
+# coolname123
+# testuser
